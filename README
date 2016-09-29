@@ -1,2 +1,13 @@
+Based on python 2.7
 
-python 2.7
+########Install########
+1) Install components:
+
+  pip install -r requirements.txt
+
+if your pip PATH to python 3+, try it:
+  pip2 or pip2.7
+
+if permission denied superuser:
+
+  sudo pip install -r requirements.txt
