@@ -1,6 +1,6 @@
 Based on python 2.7
 
-########Install########
+########Deploy########
 1) Install components:
 
   pip install -r requirements.txt
@@ -11,3 +11,8 @@ if your pip PATH to python 3+, try it:
 if permission denied superuser:
 
   sudo pip install -r requirements.txt
+
+2) Makemigrations and migrate
+
+  python2.7 manage.py makemigraions
+  python2.7 manage.py migrate
