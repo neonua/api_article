@@ -8,7 +8,7 @@ Based on python 2.7
 if your pip PATH to python 3+, try it:
   pip2 or pip2.7
 
-if permission denied superuser:
+if permission denied - use superuser(root) permissions:
 
   sudo pip install -r requirements.txt
 
@@ -16,3 +16,5 @@ if permission denied superuser:
 
   python2.7 manage.py makemigraions
   python2.7 manage.py migrate
+
+3) To get started with app - go to Documetation
