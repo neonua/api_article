@@ -66,7 +66,7 @@ Content-Type : application/json
 RAW DATA, Body:
 {
   "username":"sample@world.com",
-  "password": "sample",
+  "password": "sample"
 }
 
 Пример POST-запроса с помощью curl:
